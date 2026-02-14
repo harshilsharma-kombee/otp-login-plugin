@@ -3,7 +3,7 @@
  * Plugin Name: Secure OTP Login for WordPress Admin
  * Description: Secure your WordPress admin with OTP login verification.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Kombee
  * Text Domain: secure-otp-login
  */
 
