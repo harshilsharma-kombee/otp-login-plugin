@@ -1,0 +1,46 @@
+.sotl-otp-container {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.sotl-send-otp-p {
+    margin-bottom: 10px;
+}
+
+#sotl-send-otp-btn {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+#sotl-otp-field-group {
+    margin-top: 15px;
+    border-top: 1px solid #ccc;
+    /* Separator */
+    padding-top: 15px;
+}
+
+#sotl-otp-message {
+    font-size: 13px;
+    color: #0073aa;
+    margin-top: 5px;
+}
+
+#sotl-otp-message.error {
+    color: #d63638;
+}
+
+#sotl-otp-message.success {
+    color: #00a32a;
+}
+
+#sotl-otp-timer {
+    font-weight: bold;
+    color: #d63638;
+}
+
+#sotl-resend-link {
+    margin-top: 5px;
+    font-size: 12px;
+}
